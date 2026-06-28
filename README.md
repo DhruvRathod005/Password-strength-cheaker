@@ -1,2 +1,2 @@
-# Password-strength-cheaker
-A simple, beginner-friendly Python script that evaluates password strength across 5 specific security conditions without using external libraries.
+# Password Strength Checker
+Developed a Password Strength Checker using Python that evaluates password strength based on essential security parameters such as minimum length, uppercase letters, lowercase letters, numeric digits, and special characters. The application classifies passwords as Weak, Medium, or Strong and provides users with feedback to encourage the creation of secure passwords. This project demonstrates practical Python programming skills and a fundamental understanding of cybersecurity principles.
